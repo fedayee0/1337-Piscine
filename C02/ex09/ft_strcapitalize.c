@@ -5,13 +5,13 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: fdycoding <aminefdy@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/02 17:29:06 by fdycoding         #+#    #+#             */
-/*   Updated: 2026/03/02 17:38:59 by fdycoding        ###   ########.fr       */
+/*   Created: 2026/03/03 16:47:59 by fdycoding         #+#    #+#             */
+/*   Updated: 2026/03/03 16:49:20 by fdycoding        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 //#include <stdio.h>
-
+//
 char	*ft_strlowcase(char *str)
 {
 	int	i;
@@ -29,26 +29,22 @@ char	*ft_strlowcase(char *str)
 char	*ft_strcapitalize(char *str)
 {
 	int	i;
-	int	true;
+	int	start;
 
 	ft_strlowcase(str);
-	true = 1;
 	i = 0;
-	while (str[i] != '\0')
+	start = 1;
+	while (str[i])
 	{
-		if ((str[i] >= 'a' && str[i] <= 'z' || str[i] >= '0'
-				&& str[i] <= '9') && true == 1)
+		if ((str[i] >= 'a' && str[i] <= 'z')
+			|| (str[i] >= '0' && str[i] <= '9'))
 		{
-			if (str[i] >= '0' && str[i] <= '9')
-				true = 0;
-			else
-			{
+			if (start && (str[i] >= 'a' && str[i] <= 'z'))
 				str[i] -= 32;
-				true = 0;
-			}
+			start = 0;
 		}
-		else if (str[i] >= 32 && str[i] <= 47)
-			true = 1;
+		else
+			start = 1;
 		i++;
 	}
 	return (str);
