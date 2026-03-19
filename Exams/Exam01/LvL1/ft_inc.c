@@ -1,4 +1,4 @@
-void ft_inc(int *a) 
+void	ft_inc(int *a) 
 {
     (*a)++;
 }

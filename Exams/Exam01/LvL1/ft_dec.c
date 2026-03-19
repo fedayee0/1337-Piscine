@@ -1,4 +1,4 @@
-void ft_dec(int *a) 
+void	ft_dec(int *a) 
 {
     (*a)--;
 }
