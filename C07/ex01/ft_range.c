@@ -16,19 +16,12 @@
 int	*ft_range(int min, int max)
 {
 	int	i;
-	int	cpy_min;
 	int	*range;
 
 	i = 0;
-	cpy_min = min;
 	if (min >= max)
 		return (NULL);
-	i = 0;
-	while (cpy_min < max)
-	{
-		i++;
-		cpy_min++;
-	}
+	i = max - min;
 	range = malloc(sizeof(int) * i);
 	if (!range)
 		return (NULL);
