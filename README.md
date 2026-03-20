@@ -57,7 +57,7 @@ Includes:
 
 ## Exam Problems Overview
 
-| Exam Stage   | Problems                                                                 | Nb |
+| Exam Stage   | Problems                                                                 | N |
 |--------------|--------------------------------------------------------------------------|-------|
 | **Exam00**   | `only_z` `aff_a` `even, maff_alpha, maff_revalpha, odd, putstr` `print_even, print_odd, swap_cases` `ft_add, ft_dec, ft_div, ft_inc, ft_mul, ft_sub, occ_a` `ft_putstr, ft_strcmp, ft_strcpy, ft_strlen, ft_strrev, ft_swap` `ft_atoi, ft_putnbr`|**25**|
 | **Exam01**   | —                                                                        |**0** |
