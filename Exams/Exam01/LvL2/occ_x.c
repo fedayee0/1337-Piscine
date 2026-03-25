@@ -8,5 +8,5 @@ int occ_x(char *str)
 			occ++;
 		i++;
 	}
-	return occ;
+	return (occ);
 }
