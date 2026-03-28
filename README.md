@@ -71,7 +71,7 @@ Includes:
 
 >Do not copy solutions directly.  
 >Try solving exercises yourself first, then compare.  
->For any questions: Discord username **fedayee0**
+>For any questions: Discord username **fdy404**
 >
  [FDY CODING - SERVER DISCORD](https://discord.gg/PCjtmQXTvk)
 
