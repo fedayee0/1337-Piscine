@@ -158,7 +158,9 @@ rush(-3, 1)
 This project is part of the 42 School curriculum and is intended for educational purposes.
 
 ---
-Bruh I Don't Like This Readme File Its Just a AI Works But Anyway Its Kind Of Good 
-If U Have Any Qs About This Rush > Discord Username : **fdy444**
+Bruh I Don't Like This Readme File Its Just a AI Works But Anyway Its Kind Of Good.
+
+If U Have Any Qs About This Rush > Discord Username : **fdy444**.
+
 I Wish To Being With Smart People In Rush, But If u are Homeless Just Buy a House. 
 >  Did u Got The Idea ?
