@@ -49,9 +49,10 @@ Includes:
 | C04 | ⚠️ | ex00 - ex04 | ex05 | Numbers             |
 | C05 | ⚠️ | ex00 - ex07 | ex08 | Math & Recursion    |
 | C06 | ✅ | ex00 - ex03 | —    | Argc & Argv          |
-| C07 | ⚠️ | ex00 - ex03 | ex04 - ex05 | Memory Allocation  |         |
+| C07 | ⚠️ | ex00 - ex03 | ex04 - ex05 | Memory Allocation | 
 | C07–C13 | ❌ | — | — | Advanced C Topics    |
-| Rush00–Rush02 | ❌ | — | — | Rush Projects       |
+| Rush00|✅ | All Files  | —    | Rectangle |
+| Rush01–Rush02 | ❌ | — | — | Rush Projects |
 | BSQ | ❌ | — | — | Big Square            |
 
 ---
