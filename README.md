@@ -46,7 +46,7 @@ Includes:
 | C01 | ✅ | ex00 - ex08 | —     | Pointers            |
 | C02 | ⚠️ | ex00 - ex11 | ex12 | Strings & Arrays    |
 | C03 | ✅ | ex00 - ex05 | —    | String Ops          |
-| C04 | ⚠️ | ex00 - ex04 | ex05 | Numbers             |
+| C04 | ✅ | ex00 - ex05 | — | Numbers             |
 | C05 | ⚠️ | ex00 - ex07 | ex08 | Math & Recursion    |
 | C06 | ✅ | ex00 - ex03 | —    | Argc & Argv          |
 | C07 | ⚠️ | ex00 - ex03 | ex04 - ex05 | Memory Allocation | 
