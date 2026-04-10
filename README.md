@@ -62,7 +62,7 @@ Includes:
 | Exam Stage   | Problems                                                                 | N |
 |--------------|--------------------------------------------------------------------------|-------|
 | **Exam00**   | `only_z` `aff_a` `even, maff_alpha, maff_revalpha, odd, putstr` `print_even, print_odd, swap_cases` `ft_add, ft_dec, ft_div, ft_inc, ft_mul, ft_sub, occ_a` `ft_putstr, ft_strcmp, ft_strcpy, ft_strlen, ft_strrev, ft_swap` `ft_atoi, ft_putnbr`|**25**|
-| **Exam01**   | —                                                                        |**0** |
+| **Exam01**   | `aff_a , aff_z` `ft_add, ft_dec, ft_div, ft_inc, ft_mul, ft_sub` `interval_spaces, maff_alpha, maff_revalpha, write_string` `count_alen, ft_strlen, occ_x` `alpha_mirror, first_word, fizzbuzz, print_interval, rot_13, rotone, swap_cases, ulstr` `ft_strcmp, ft_strcpy, ft_strrev` `ft_atoi` `aff_first_param, aff_last_param` `inter, lasr_word, litle, search_and_raplace, union, union2, wdmatch` `count_words`                                                                       |**38** |
 | **Exam02**   | —                                                                        |**0** |
 | **Final Exam** | —                                                                      |**0** |
 
@@ -72,9 +72,9 @@ Includes:
 
 >Do not copy solutions directly.  
 >Try solving exercises yourself first, then compare.  
->For any questions: Discord username **fdy404**
+>For any questions: Discord username **1.13.14**
 >
- [FDY CODING - SERVER DISCORD](https://discord.gg/PCjtmQXTvk)
+ [FDY - SERVER DISCORD](https://discord.gg/zjsAf4fjZX)
 
  <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
