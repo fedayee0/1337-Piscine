@@ -72,7 +72,7 @@ Includes:
 
 >Do not copy solutions directly.  
 >Try solving exercises yourself first, then compare.  
->For any questions: Discord username **1.13.14**
+>For any questions: Discord username **113i14e**
 >
  [FDY - SERVER DISCORD](https://discord.gg/zjsAf4fjZX)
 
